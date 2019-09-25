@@ -1,4 +1,4 @@
-INSTANCES=( node1 node2 )
+INSTANCES=( worker-1 worker-2 )
 INSTANCES_IP=( 10.211.55.61 10.211.55.62) 
 for i in 0 1 
 do
