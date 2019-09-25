@@ -1,3 +1,4 @@
 *.pem
 *.csr
 04-certificate-authority/*.json
+**/.vagrant
