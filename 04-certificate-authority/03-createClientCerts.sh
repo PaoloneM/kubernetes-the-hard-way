@@ -1,5 +1,5 @@
-INSTANCES=( worker-1 worker-2 )
-INSTANCES_IP=( 10.211.55.61 10.211.55.62) 
+INSTANCES=( worker-0 worker-1 )
+INSTANCES_IP=( 10.211.55.68 10.211.55.70) 
 for i in 0 1 
 do
 cat > ${INSTANCES[$i]}-csr.json <<EOF
