@@ -1,4 +1,4 @@
-# Kubernetes The Hard Way - My scripts
+# Kubernetes The Hard Way - My scripts
 
 While attending to LFS258 Kubernetes Fundamentals class, I had to approach the (Kubernetes The Hard Way tutorial by Kelsey Hightower)[https://github.com/kelseyhightower/kubernetes-the-hard-way].
 
