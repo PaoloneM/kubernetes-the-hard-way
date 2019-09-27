@@ -2,3 +2,4 @@
 *.csr
 04-certificate-authority/*.json
 **/.vagrant
+06-data-encryption-keys/*.yaml
