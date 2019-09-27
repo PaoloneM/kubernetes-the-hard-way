@@ -3,3 +3,4 @@
 04-certificate-authority/*.json
 **/.vagrant
 06-data-encryption-keys/*.yaml
+05-kubernetes-configuration-files/*.kubeconfig
