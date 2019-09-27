@@ -1,6 +1,7 @@
 {
 
-KUBERNETES_PUBLIC_ADDRESS="10.211.55.60"
+KUBERNETES_PUBLIC_ADDRESS="192.168.1.43"
+KUBERNETES_PRIVATE_ADDRESS="10.211.55.69,10.211.55.67"
 
 KUBERNETES_HOSTNAMES=master,master.local,kubernetes,kubernetes.default,kubernetes.default.svc,kubernetes.default.svc.cluster,kubernetes.svc.cluster.local
 
